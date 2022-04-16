@@ -10,6 +10,10 @@ export default class LinkZone {
       "label": "Consultar Saldo"
     },
     {
+      "value": "*222*266#",
+      "label": "Consultar Bono"
+    },
+    {
       "value": "*133*5*1#",
       "label": "Plan Combinado 600 MB + 800 MB - $110"
     },
